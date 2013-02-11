@@ -1,0 +1,6 @@
+www.google.com
+www.twitter.com
+www.cnn.com
+www.time.com
+www.reddit.com
+news.ycombinator.com
